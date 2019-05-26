@@ -2,9 +2,9 @@
   "name": "cj-family",
   "description": "Test",
   "version": "0.0.0",
-  "main": "rainbow.js",
+  "main": "cjfamily.js",
   "scripts": {
-  "start": "node rainbow.js"
+  "start": "node cjfamily.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
