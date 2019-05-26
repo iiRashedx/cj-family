@@ -1,1 +1,1 @@
-worker: node rainbow.js
+worker: node cjfamily.js
